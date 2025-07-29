@@ -1,6 +1,6 @@
 <h1>  Hi, I'm Matas! 
 <br/>
-Aspiring cybersecurity and cloud specialist 
+Aspiring Cybersecurity and Cloud Specialist 
   
 <h2>Networking & Infrastructure Projects:</h2>
 
