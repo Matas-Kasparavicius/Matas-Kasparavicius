@@ -8,7 +8,7 @@ Aspiring Cybersecurity and Cloud Specialist
 
   - Configured a Cisco switch via CLI (hostname, VLAN creation, port assignment, IP addressing)
   - Verified device-to-device communication through manual setup and testing
-  - [🎥 Video Walkthrough & CLI Commands]()
+  - [🎥 Video Walkthrough & CLI Commands](https://github.com/Matas-Kasparavicius/Switch-Configuration-and-VLAN-Setup-Demo)
 
 
 <h2>Connect with me:</h2>
