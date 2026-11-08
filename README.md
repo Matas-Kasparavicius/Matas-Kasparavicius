@@ -1,18 +1,22 @@
-<h1>  Hi, I'm Matas! 
-<br/>
-Aspiring Networking Specialist 
-  
-<h2>Networking & Infrastructure Projects:</h2>
+# Hi, I'm Matas!
 
-- <b>Switch Configuration & VLAN Setup</b>
+Aspiring IT & Network Professional
+
+## Networking & Infrastructure Projects:
+
+- **Switch Configuration & VLAN Setup**
 
   - Configured a Cisco switch via CLI (hostname, VLAN creation, port assignment, IP addressing)
   - Verified device-to-device communication through manual setup and testing
-  - [🎥 Video Walkthrough & CLI Commands](https://github.com/Matas-Kasparavicius/Switch-Configuration-and-VLAN-Setup-Demo)
+  - [Video Walkthrough & CLI Commands](https://github.com/Matas-Kasparavicius/Switch-Configuration-and-VLAN-Setup-Demo)
 
+- **Active Directory Infrastructure Lab | Windows Server 2019**
 
-<h2>Connect with me:</h2>
+  - Built a virtual Windows domain environment using Oracle VirtualBox, Windows Server 2019 and Windows 10
+  - Configured Active Directory Domain Services, DNS, DHCP and RRAS/NAT to support centralised user management and network connectivity
+  - Used PowerShell-assisted proshouldvisioning to create approximately 1,000 test accounts and verified DHCP configuration and Active Directory user objects
+  - [Project Documentation & Screenshots](https://github.com/Matas-Kasparavicius/active-directory-home-lab)
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## Connect with me:
 
-[linkedin]: https://www.linkedin.com/in/matas-kasparavicius-33503231a/
+[LinkedIn](https://www.linkedin.com/in/matas-kasparavicius-33503231a/)
